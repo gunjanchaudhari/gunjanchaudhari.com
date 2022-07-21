@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.604d7124.css",
-    "main.js": "/static/js/main.d4d40057.js",
-    "static/js/787.d13d10b9.chunk.js": "/static/js/787.d13d10b9.chunk.js",
-    "static/media/photo.png": "/static/media/photo.f8afd371d86da2830cc2.png",
-    "index.html": "/index.html",
-    "main.604d7124.css.map": "/static/css/main.604d7124.css.map",
-    "main.d4d40057.js.map": "/static/js/main.d4d40057.js.map",
-    "787.d13d10b9.chunk.js.map": "/static/js/787.d13d10b9.chunk.js.map"
+    "main.css": "/gunjanchaudhari.com/static/css/main.5d3584b7.css",
+    "main.js": "/gunjanchaudhari.com/static/js/main.b0c541f1.js",
+    "static/js/787.d13d10b9.chunk.js": "/gunjanchaudhari.com/static/js/787.d13d10b9.chunk.js",
+    "static/media/photo.png": "/gunjanchaudhari.com/static/media/photo.f8afd371d86da2830cc2.png",
+    "index.html": "/gunjanchaudhari.com/index.html",
+    "main.5d3584b7.css.map": "/gunjanchaudhari.com/static/css/main.5d3584b7.css.map",
+    "main.b0c541f1.js.map": "/gunjanchaudhari.com/static/js/main.b0c541f1.js.map",
+    "787.d13d10b9.chunk.js.map": "/gunjanchaudhari.com/static/js/787.d13d10b9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.604d7124.css",
-    "static/js/main.d4d40057.js"
+    "static/css/main.5d3584b7.css",
+    "static/js/main.b0c541f1.js"
   ]
 }
