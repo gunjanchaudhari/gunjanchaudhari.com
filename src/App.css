@@ -1,7 +1,0 @@
-.photo {
-  clip-path: circle(30%);
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  shape-outside: margin-box;
-}
